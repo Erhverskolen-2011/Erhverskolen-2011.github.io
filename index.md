@@ -1,3 +1,3 @@
 # Erhvervsskolen 2011 / stuLAB
 
-Lidt indhold
+Se indhold på [stuLab/wiki](https://github.com/Erhverskolen-2011/stulab/wiki).
